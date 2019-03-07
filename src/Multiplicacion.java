@@ -1,3 +1,4 @@
 public class Multiplicacion {
-	syste.out.println("DianaSuma");
+	public static void main(String[]args) {
+		System.out.println("SumaDiana");
 }
