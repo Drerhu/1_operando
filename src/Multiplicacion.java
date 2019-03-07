@@ -1,5 +1,5 @@
 public class Multiplicacion {
 	public static void main(String[]args) {
-		System.out.println("SumaDiana");
+		System.out.println("Diana");
 	}
 }
